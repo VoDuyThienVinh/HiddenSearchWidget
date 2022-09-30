@@ -31,4 +31,8 @@ https://voduythienvinh.github.io/HiddenSearchWidget/
 ```
 
 ## Adapted from 
-50 Project Days - Udemy
+Udemy Course: 50 Project in 50 Days - HTML, CSS & Javascript
+Project Name: Day 4 - Hidden Search Widget
+Create by: Brad Traversy, Florin Pop
+Last updated 12/2020
+URL: https://www.udemy.com/course/50-projects-50-days/
